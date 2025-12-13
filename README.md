@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a student of 42 Belgium based in Antwerp 🪬
+Currently a student of 42 Belgium based in Antwerp 🏙️
 
 
 # 💻 Tech Stack:
